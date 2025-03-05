@@ -1,0 +1,15 @@
+This project explores historical temperature data to understand long-term climate patterns.
+It focuses on data cleaning, trend identification, and correlation analysis to provide insights into global temperature variations.
+
+Key Features
+1. Data Preprocessing:
+-Converted the dt column to a proper datetime format.
+-Handled missing values by removing records with null temperatures.
+-Extracted yearly temperature trends for analysis.
+2. Feature Engineering:
+-Aggregated average global temperature per year for trend detection.
+-Calculated moving averages to smooth temperature fluctuations.
+3. Data Visualization:
+-Line Plot: Displays global temperature trends over time.
+-Heatmap: Shows correlations between temperature and uncertainty values.
+-Moving Average Analysis: Helps detect long-term climate patterns.
