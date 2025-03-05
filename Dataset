@@ -1,0 +1,13 @@
+The dataset (https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data)contains historical temperature records for cities worldwide.
+
+Key Columns:
+-dt: Date of temperature recording.
+-AverageTemperature: Recorded average land temperature (°C).
+-AverageTemperatureUncertainty: Margin of uncertainty in recorded temperature.
+-City, Country: Location information.
+-Latitude, Longitude: Geographic coordinates.
+
+Technologies Used:
+-Python
+-Pandas & NumPy (Data Processing)
+-Matplotlib & Seaborn (Data Visualization)
